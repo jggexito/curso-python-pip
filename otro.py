@@ -20,5 +20,6 @@ print("")'''
 
 print(resultado[random.randint(0,32468435)])
 print(resultado[random.randint(0,32468435)])
+
 print(resultado[random.randint(0,32468435)])
 
