@@ -23,5 +23,5 @@ print(resultado[random.randint(0,100)])
 print(resultado[random.randint(0,100)])
 
 
-print ('otro')
+print ('Merge Otro')
 
